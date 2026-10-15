@@ -1,5 +1,5 @@
 {
-  "patch_base_url": "https://taig40.github.io/taigaro-patching",
+  "patch_base_url": "https://taig40.github.io/taigaro-patching/",
   "patches": [ 
     {
       "id": 1,
