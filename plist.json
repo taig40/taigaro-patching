@@ -3,11 +3,18 @@
   "patches": [
     {
       "id": 1,
+      "name": "server.grf",
+      "hash": "ecf7cb2bc3914c23",
+      "size": 37611061,
+      "type": "grf",
+      "target": "server.grf"
+    },  
+    {
+      "id": 2,
       "name": "patch_001.zip",
       "hash": "b052b681d55d493d",
       "size": 5655753,
-      "type": "client",
-      "target": "server.grf"
+      "type": "raw",
     }
   ]
 }
