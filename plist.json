@@ -1,0 +1,10 @@
+{
+  "patch_base_url": "https://taigaro.gamer.gd",
+  "patches": [
+    {
+      "id": 1,
+      "file_name": "patch_001.zip",
+      "type": "client"
+    }
+  ]
+}
