@@ -1,10 +1,13 @@
 {
-  "patch_base_url": "https://taig40.github.io/taigaro-patching/",
+  "patch_base_url": "https://taig40.github.io/taigaro-patching",
   "patches": [
     {
       "id": 1,
-      "file_name": "patch_001.zip",
-      "type": "raw"
-	}
+      "name": "patch_001.zip",
+      "hash": "b052b681d55d493d",
+      "size": 5655753,
+      "type": "client",
+      "target": "server.grf"
+    }
   ]
 }
