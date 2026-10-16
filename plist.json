@@ -4,8 +4,15 @@
     {
       "id": 1,
       "name": "patch_001.zip",
-      "hash": "b052b681d55d493d",
-      "size": 5655753,
+      "hash": "344bec99417fbc7e",
+      "size": 6214570,
+      "type": "raw"
+    },
+	{
+      "id": 2,
+      "name": "patch_002.zip",
+      "hash": "ca39a13b5754440f",
+      "size": 4184575,
       "type": "raw"
     }
   ]
